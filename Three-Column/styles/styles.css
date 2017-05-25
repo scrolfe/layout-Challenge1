@@ -1,0 +1,45 @@
+body {
+    background-color: #8a6767;
+
+}
+header {
+    /*width: 90%;*/
+    height: 150px;
+    background-color: rgba(130, 106, 136, 1);
+    margin: 20px 30px 20px 30px;
+}
+div {
+    height: 850px;
+    float: left;
+    width: 90%;
+}
+#first {
+    float: left;
+    background-color: #53639d;
+    width: 22%;
+    margin: 20px;
+    padding: 10px;
+}
+#second {
+    float: left;
+    background-color: #3e526c;
+    width: 44%;
+    margin: 20px;
+    padding: 10px 0 10px 0;
+}
+#third {
+    float: right;
+    background-color: rgb(68, 36, 66);
+    width: 22%;
+    margin: 20px;
+    padding: 10px;
+}
+footer {
+    clear: both;
+    background-color: rgb(123, 146, 237);
+    margin: 20px;
+}
+h1 {
+    font-size: 72px;
+    text-align: center;
+}
