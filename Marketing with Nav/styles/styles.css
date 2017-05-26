@@ -1,0 +1,149 @@
+body {
+    background-color: rgb(88, 157, 179);
+}
+header {
+    background-color: rgb(103, 81, 115);
+    height: 85px;
+}
+h1 {
+    font-size: 20px;
+}
+.home {
+    background-color: rgb(40, 62, 43);
+    font-size: 40px;
+    text-align: center;
+    width: 16%;
+    height: 85px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body {
+    background-color: #8a6767;
+    padding: 10px;
+}
+header {
+    width: 20%;
+    height: 150px;
+    background-color: rgba(130, 106, 136, 1);
+    margin: 20px;
+}
+nav {
+    float: left;
+    width: 93%;
+}
+#tile1 {
+    margin: 10px;
+    background-color: rgb(135, 49, 56);
+    height: 100px;
+    width: 200px;
+    float: left;
+
+}
+#tile2 {
+    margin: 10px;
+    background-color: rgb(135, 49, 56);
+    height: 100px;
+    width: 200px;
+    float: left;
+
+}
+#tile3 {
+    margin: 10px;
+    background-color: rgb(135, 49, 56);
+    height: 100px;
+    width: 200px;
+    float: left;
+
+}
+#tile4 {
+    margin: 10px;
+    background-color: rgb(135, 49, 56);
+    height: 100px;
+    width: 200px;
+    float: right;
+
+}
+div {
+    height: 850px;
+}
+#first {
+    float: left;
+    background-color: #53639d;
+    width: 43.5%;
+    margin: 20px;
+}
+#second {
+    float: left;
+    background-color: #3e526c;
+    width: 43.5%;
+    margin: 20px;
+}
+
+}
+h1 {
+    font-size: 72px;
+    text-align: center;
+}
+section {
+    margin: 35px 0 35px 0;
+    width: 93%;
+}
+
+#box1 {
+    background-color: rgb(38, 14, 7);
+    float: left;
+    width: 30%;
+    height: 200px;
+    margin: 20px 20px 20px 20px;
+}
+#box2 {
+    background-color: rgb(43, 26, 24);
+    float: left;
+    width: 30%;
+    height: 200px;
+    margin: 20px 0px 20px 20px;
+}
+#box3 {
+    background-color: rgb(43, 36, 7);
+    float: right;
+    width: 30%;
+    height: 200px;
+    margin: 20px 20px 20px 25px;
+}
+footer {
+    clear: both;
+    background-color: rgb(123, 146, 237);
+    margin: 20px;
+    width: 90%;
+    height: 100px;*/
